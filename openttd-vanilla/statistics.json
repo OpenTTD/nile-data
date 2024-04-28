@@ -1,0 +1,23 @@
+{
+    "de_DE": {
+        "errors": 1,
+        "finished": 4367,
+        "missing": 11,
+        "outdated": 243,
+        "warnings": 12
+    },
+    "nl_NL": {
+        "errors": 0,
+        "finished": 4462,
+        "missing": 4,
+        "outdated": 166,
+        "warnings": 2
+    },
+    "la_VA": {
+        "errors": 0,
+        "finished": 3578,
+        "missing": 767,
+        "outdated": 287,
+        "warnings": 17
+    }
+}
